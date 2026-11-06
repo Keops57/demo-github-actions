@@ -1,2 +1,2 @@
-# README (No dice nada util)
-Odio configurar un repositorio
+# demo-github-actions
+Demostracion en la clase para github actions
