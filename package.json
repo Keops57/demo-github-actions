@@ -1,0 +1,27 @@
+{
+  "name": "demo-github-actions",
+  "version": "1.0.0",
+  "description": "Me da flojera cambiar esto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keops57/exposicion-usm-practicas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Keops57/exposicion-usm-practicas/issues"
+  },
+  "homepage": "https://github.com/Keops57/exposicion-usm-practicas#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.14.0",
+    "globals": "^17.14.0"
+  }
+}
